@@ -9,7 +9,7 @@ def curfew_checker(time)
 end
 
 def complex_curfew_checker(time)
-  # code goes here
+  # if, elsif, else
 end
 
 def deluxe_curfew_checker(time)
